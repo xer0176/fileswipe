@@ -1,0 +1,9 @@
+[ - this keeps the file and moves on
+] - this adds the file to deletion list
+; - this enters the namestate, type your name for the file
+' - exit namestate and rename the file to the text above
+
+
+
+
+This has only been tested on Cachyos Linux
